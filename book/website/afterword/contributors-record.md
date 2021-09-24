@@ -694,21 +694,20 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Sarah Gibson
 
-* Role: Core contributor, Infrastructure Maintainer (2019 - present), OLS-2 for Turing mentor, Book Dash 2020 helper
+* Role: Core contributor, Infrastructure Maintainer (2019 - present), OLS-2 and OLS-3 for Turing mentor, Book Dash 2020 helper
 * GitHub id: [sgibson91](http://github.com/sgibson91)
 * ORCID: [0000-0003-0356-2765](https://orcid.org/0000-0003-0356-2765)
 * Short bio:
-> I am a Research Software Engineer at The Alan Turing Institute where I implement software best practices to translate academic research into real world solutions through the Turing's collaborative network.
-> I am also an operator and maintainer for the Binder project and runs a BinderHub cluster at the Turing which receives traffic from mybinder.org.
-> In 2020, I am also honoured to be a Software Sustainability Institute Fellow and to continue advocating for reproducible and sustainable research through software.
+> Sarah Gibson is an Open Source Infrastructure Engineer at 2i2c, an open source contributor and advocate.
+> She holds more than two years of experience as a Research Engineer at a national institute for data science and artificial intelligence, as well as holding a core contributor role in the open source projects Binder, JupyterHub, and the Turing Way.
+> She is a member of the mybinder.org operating team and maintains infrastructure supporting a global community in sharing reproducible computational environments.
 
 * Personal highlights:
-> Becoming a core member of _The Turing Way_ and Project Binder, and helping people all around the world launch and share their analyses in the cloud.
+> Being invited to join the mybinder.org operating team after working with them through _The Turing Way_ and helping people get up-and-running on mybinder.org through _From Zero to Binder_ workshops.
 
 * More information:
-> I'm passionate about applying the skills I learnt during my PhD somewhere closer to home and learning new skills along the way.
-> The Turing Way is an ideal opportunity for me to learn better research practices and widen my horizons from what academia has taught me.
-
+> Sarah is passionate about working with domain experts to leverage cloud computing in order to accelerate cutting-edge, data-intensive research and disseminating the results in an open, reproducible and reusable manner.
+> She also holds a Fellowship with the Software Sustainability Institute and advocates for best software practices in research.
 
 ### Sophia Batchelor
 
@@ -760,11 +759,10 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 <!---Z
 ## Z--->
-(contributors-record-all)=
-# All Contributors
-✨Using [all-contributors](https://allcontributors.org/) specification, _The Turing Way_ recognises all contributors, not just the ones who push code. ✨
-
-(contributors-record-contributors)=
+\n(contributors-record-all)=
+\n# All Contributors\n
+\n✨Using [all-contributors](https://allcontributors.org/) specification, _The Turing Way_ recognises all contributors, not just the ones who push code. ✨
+\n(contributors-record-contributors)=
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -1017,7 +1015,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <td align="center"><a href="https://github.com/camachoreina"><img src="https://avatars0.githubusercontent.com/u/12454015?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Reina Camacho Toro</b></sub></a><br /><a href="#translation-camachoreina" title="Translation">🌍</a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://remi-gau.github.io/"><img src="https://avatars3.githubusercontent.com/u/6961185?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Remi Gau</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3ARemi-Gau" title="Bug reports">🐛</a></td>
+<td align="center"><a href="https://remi-gau.github.io/"><img src="https://avatars3.githubusercontent.com/u/6961185?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Remi Gau</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3ARemi-Gau" title="Bug reports">🐛</a> <a href="#content-Remi-Gau" title="Content">🖋</a></td>
 <td align="center"><a href="https://reshamas.github.io"><img src="https://avatars0.githubusercontent.com/u/2507232?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Reshama Shaikh</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Areshamas" title="Bug reports">🐛</a></td>
 <td align="center"><a href="https://github.com/rjjgilham"><img src="https://avatars0.githubusercontent.com/u/18323072?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Richard Gilham</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/commits?author=rjjgilham" title="Documentation">📖</a> <a href="#ideas-rjjgilham" title="Ideas, Planning, & Feedback">🤔</a></td>
 <td align="center"><a href="https://github.com/risaueno"><img src="https://avatars0.githubusercontent.com/u/22602921?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Risa Ueno</b></sub></a><br /><a href="#ideas-risaueno" title="Ideas, Planning, & Feedback">🤔</a></td>
